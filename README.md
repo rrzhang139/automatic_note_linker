@@ -35,7 +35,7 @@ Currently, this plugin does not require any configuration. Future versions may i
 
 ## Support
 
-If you encounter any issues or have suggestions for improvements, please visit the GitHub repository and open an issue.
+If you encounter any issues or have suggestions for improvements, please visit the GitHub repository or [Anki page](https://ankiweb.net/shared/info/1156904184?cb=1726495583704) and open an issue.
 
 ## Acknowledgments
 
