@@ -2,6 +2,8 @@
 
 Auto Link Keyword is an Anki plugin that automatically creates links between notes based on keywords. It adds a button to the editor that allows you to select a keyword and automatically link it to all other notes containing that keyword.
 
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3YxNmN1ODNnbHo2OWQ0M2NwZ3VhZm8wNDVjemVvZm5jODNqNnJxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kkpCAeRwApeotmRipj/giphy.gif)
+
 ## Features
 
 - Automatically creates links between notes based on keywords
